@@ -19,7 +19,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 // 1 => true; 0 => false
 // "" => false
-// "hitesh" => true
+// "anam" => true
 
 let someNumber = 33
 
@@ -62,7 +62,7 @@ num1 = num2 = num3 = 2 + 2
 
 let gameCounter = 100
 ++gameCounter;
+//x=3 
+//y=x++ ; x=4,y =3 first load old value 
+//y=++x ; x=3 ,y=4 first increment the load
 console.log(gameCounter);
-
-// link to study
-// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
