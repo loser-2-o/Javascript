@@ -15,7 +15,7 @@ const user = {
 
 // console.log(this);
 
-// function chai(){
+// function sports(){
 //     let username = "anamur"
 //     console.log(this.username);
 // }
@@ -27,13 +27,13 @@ const user = {
 //     console.log(this.username);
 // }
 
-const chai =  () => {
+const sports =  () => {
     let username = "anamur"
     console.log(this);
 }
 
 
-// chai()
+// sports()
 
 // const addTwo = (num1, num2) => {
 //     return num1 + num2
